@@ -1,0 +1,7 @@
+HU:	A projektben a szótárakkal és a halmazokkal kapcsolatos feladatok találhatóak meg. 
+	A projekt 2021. októberben kezdődött, és november végén zárult le.
+	Úgy gondolom, a projektnek köszönhetően sikerült megtanulnom, és helyesen használnom a listákat, a halmazokat és a szótárakat.
+
+EN:	The project includes tasks related to dictionaries and sets.
+	The project began in October 2021 and ended in late November.
+	I think, I was able to learn and use lists, sets, and dictionaries correctly because of the project.
